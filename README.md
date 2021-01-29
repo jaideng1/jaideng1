@@ -8,4 +8,4 @@ A bit about me:
 - I'm a student (not going to share which grade I'm in)
 - I’m currently learning about OpenStreetAPI and OpenGL
 - Pronouns: He/Him (Idc if you use they/them)
-- Fun fact: I'm really bad at finishing projects lol
+- Fun fact: I'm really bad at finishing projects (lol), but it might just be that I always want to improve things in projects
