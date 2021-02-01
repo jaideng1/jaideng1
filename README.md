@@ -1,8 +1,8 @@
-### Hey!
+# Hey!
 
 - My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io)
 
-# A bit about me:
+### A bit about me:
 
 - I’m currently working on my portfolio and a new game (not sharing what it is tho ;>)
 - I'm a student (not going to share which grade I'm in)
