@@ -1,6 +1,6 @@
 ### Hey!
 
-- My Portfolio: [https://jaideng1.github.io](https://jaideng1.github.io)
+- My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io)
 
 A bit about me:
 
