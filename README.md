@@ -4,8 +4,8 @@
 
 ### A bit about me:
 
-- I’m currently working on my portfolio and a new game (not sharing what it is tho ;>)
+- Currently working on https://github.com/jaideng1/bazaar-stocks
 - I'm a student!
-- I’m currently learning about Mapbox and OpenGL
+- I’m currently learning about school stuff 😎
 - Pronouns: He/Him (Idc if you use they/them)
 - Fun fact: I'm really bad at finishing projects (lol), but it might just be that I always want to improve things in projects
