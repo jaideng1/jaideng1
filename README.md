@@ -9,4 +9,4 @@
 - I’m currently learning about school stuff 😎
 - Pronouns: He/Him (Idc if you use they/them)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaideng1&show_icons=true&count_private=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaideng1&show_icons=true&count_private=true&theme=synthwave)
