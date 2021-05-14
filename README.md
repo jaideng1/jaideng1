@@ -8,4 +8,5 @@
 - I'm a student!
 - I’m currently learning about school stuff 😎
 - Pronouns: He/Him (Idc if you use they/them)
-- Fun fact: I'm really bad at finishing projects (lol), but it might just be that I always want to improve things in projects
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaideng1&show_icons=true&count_private=true&theme=radical)
