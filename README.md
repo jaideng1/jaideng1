@@ -1,6 +1,6 @@
 # Hey!
 
-- My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io)
+- My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io) (Note: This website isn't great, but I'm making a new one, it's taking a while though!)
 
 ### A bit about me:
 
