@@ -1,10 +1,10 @@
 # Hey!
 
-- My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io) (Note: This website isn't great, but I'm making a new one, it's taking a while though!)
+- My Projects (but organized on a website): [https://jaideng1.github.io](https://jaideng1.github.io)
 
 ### A bit about me:
 
-- Currently working on Unity, [a new portfolio](https://jaideng1.github.io/new-portfolio), and much more!
+- Currently working on Unity, [a new portfolio](https://jaideng1.github.io), and much more! (Finished... Still working on it though!)
 - I'm a student!
 - I’m currently learning about school stuff 😎
 - Pronouns: He/Him
